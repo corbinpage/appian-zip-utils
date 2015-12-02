@@ -1,3 +1,3 @@
-# appian-zip-utils
+# [appian-zip-utils](http://corbinpage.github.io/appian-zip-utils/)
 
 TBD
