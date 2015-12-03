@@ -32,3 +32,4 @@ appian-package-examples
 *.csv
 *.zip
 *.txt
+*example*
