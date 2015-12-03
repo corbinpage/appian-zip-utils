@@ -38,6 +38,9 @@
         </ul>
       </div>
     </div>
+    <div id="error_block" class="alert alert-danger hidden">
+      You will need a recent browser to use this app :(
+    </div>
   </section>
 
   <section id="appian-xml-search">
@@ -54,19 +57,16 @@
                 <form>
                   <div class="form-group">
                     <label for="searchZip">Upload One Appian Zip file</label>
-                    <input type="file" class="form-control" id="searchZip">
+                    <input type="file" class="form-control" id="searchFile">
                   </div>
                   <div class="form-group">
                     <input type="text" class="form-control" id="searchText" placeholder="Text">
                   </div>
                   <button type="button" class="btn btn-default" id="searchButton">Search</button>
                 </form>
-                <div id="error_block" class="alert alert-danger hidden">
-                  You will need a recent browser to use this app :(
-                </div>
                 <div class="row hidden">
                   <div class="col-xs-12">
-                    <a href="#"></a>
+                    <a href="#">Download Search Results</a>
                   </div>
                 </div>
               </div>
