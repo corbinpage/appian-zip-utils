@@ -19,10 +19,8 @@
   "dependencies": {
     "babyparse": "^0.4.3",
     "blob": "0.0.4",
-    "filesaverjs": "^0.2.1",
     "jszip": "^2.5.0",
     "papaparse": "^4.1.2",
-    "underscore": "^1.8.3",
     "xml2js": "^0.4.15"
   }
 }
