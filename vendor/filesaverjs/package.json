@@ -1,0 +1,52 @@
+{
+  "name": "filesaverjs",
+  "version": "0.2.1",
+  "description": "An HTML5 saveAs() FileSaver implementation",
+  "main": "FileSaver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keepsite/FileSaver.js.git"
+  },
+  "keywords": [
+    "filesaver",
+    "filesaverjs",
+    "html5",
+    "saveas",
+    "blob",
+    "download",
+    "downloadjs"
+  ],
+  "author": {
+    "name": "Eli Grey"
+  },
+  "license": "(MIT OR X11)",
+  "bugs": {
+    "url": "https://github.com/eligrey/FileSaver.js/issues"
+  },
+  "homepage": "https://github.com/Keepsite/FileSaver.js",
+  "gitHead": "f23c4a66dc9fa1af818322f08eb29a371ccb4ccf",
+  "_id": "filesaverjs@0.2.1",
+  "_shasum": "0a5aaa0d261d1d83239966b2a3591005a381d802",
+  "_from": "filesaverjs@*",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "danlannz",
+    "email": "daniel.landers@outlook.com"
+  },
+  "dist": {
+    "shasum": "0a5aaa0d261d1d83239966b2a3591005a381d802",
+    "tarball": "http://registry.npmjs.org/filesaverjs/-/filesaverjs-0.2.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "danlannz",
+      "email": "daniel.landers@outlook.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/filesaverjs/-/filesaverjs-0.2.1.tgz"
+}
